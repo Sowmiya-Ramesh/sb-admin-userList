@@ -58,7 +58,7 @@ export default function Profiles() {
                     <Typography gutterBottom variant="h5" component="div">
                       {data.name}
                     </Typography>
-                    <Typography gutterBottom variant="h6" component="div">
+                    <Typography gutterBottom variant="body1" component="div">
                       {data.headQuaters}
                     </Typography>
                     <Typography variant="body2" color="text.secondary">
